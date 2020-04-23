@@ -1,0 +1,37 @@
+<bookstore>
+    <book>
+        <author>J. K. Rowling</author>
+        <title>The Philosopher's Stone</title>
+        <year>1997</year>
+    </book>
+    <book>
+        <author>J. K. Rowling</author>
+        <title>The Chamber of Secrets</title>
+        <year>1998</year>
+    </book>
+    <book>
+        <author>J. K. Rowling</author>
+        <title>The Prisoner of Azkaban</title>
+        <year>1999</year>
+    </book>
+    <book>
+        <author>J. K. Rowling</author>
+        <title>The Goblet of Fire</title>
+        <year>2000</year>
+    </book>
+    <book>
+        <author>J. K. Rowling</author>
+        <title>The Order of the Phoenix</title>
+        <year>2003</year>
+    </book>
+    <book>
+        <author>J. K. Rowling</author>
+        <title>The Half-Blood Prince</title>
+        <year>2005</year>
+    </book>
+    <book>
+        <author>J. K. Rowling</author>
+        <title>The Deathly Hallows</title>
+        <year>2007</year>
+    </book>
+</bookstore>
